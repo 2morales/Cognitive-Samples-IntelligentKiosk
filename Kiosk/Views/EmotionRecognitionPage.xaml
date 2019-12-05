@@ -34,8 +34,8 @@
             </Grid.ColumnDefinitions>
 
             <ctl:ImageWithFaceBorderUserControl x:Name="imageWithFacesControl" Grid.Row="1" Grid.Column="1" 
-                                                BalloonBackground="#ECCF11" 
-                                                BalloonForeground="#D86C2A" 
+                                                BalloonBackground="#000000" 
+                                                BalloonForeground="#EF5422" 
                                                 ShowEmotionRecognition="True" 
                                                 DetectFacesOnLoad="True" 
                                                 ShowMultipleFaces="True" 
